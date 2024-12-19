@@ -1,0 +1,14 @@
+{
+  "name": "test27---testssh",
+  "version": "1.0.0",
+  "description": "TestSSH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lionel Magdelyns",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
